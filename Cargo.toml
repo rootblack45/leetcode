@@ -1,0 +1,8 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+authors = ["Arongkorn P. <rootblack45@gmail.com>"]
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/rootblack45/leetcode"
+description = "LeetCode solutions written in Rust"
